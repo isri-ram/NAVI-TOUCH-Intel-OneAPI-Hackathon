@@ -3,7 +3,8 @@
 Assistive hardware technology for blind individuals has come a long way. With technological advancements, it has become possible to develop hardware that can help visually impaired individuals navigate safely on roads. In this article, we will discuss a project built as part of the oneAPI hackathon. The project involved various hardware components and software tools to develop an assistive technology that can help the blind navigate locally and safely on roads.
 # Team Navi-Touch
 
-![App Screenshot](https://github.com/staroIR11/Navi-Touch--IntelOneAPI/blob/fc5f5985857c0b64180803807de41562b660b2bd/All_Components%20(1).gif)
+![All_Components](https://github.com/isri-ram/NAVI-TOUCH-Intel-OneAPI-Hackathon/assets/81283720/2b9f44a6-c153-4295-abcb-4987c980d9f1)
+
 
 
 
@@ -59,14 +60,8 @@ For support, email sriram@karunya.edu.in
  - [Servo motor connection](https://docs.arduino.cc/learn/electronics/servo-motors)
 
 ## Team Members
--Sri Ram MS,Isaac Ritharson, Shree Hari B, Dakshnakumar GS
+-Sri Ram M S, Isaac Ritharson, Shree Hari B, Dakshnakumar G S
 
-## Contributing
 
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
 
 
